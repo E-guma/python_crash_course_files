@@ -1,0 +1,6 @@
+John just visited guest_book.py.
+Mary just visited guest_book.py.
+Mike just visited guest_book.py.
+Elijah just visited guest_book.py.
+Rhoda just visited guest_book.py.
+Victor just visited guest_book.py.
